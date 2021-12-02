@@ -7,4 +7,8 @@ Pivot tables are so-named for the ability to turn or pivot the aggregated data, 
 
 We also explore creating slicers to filter pivot tables with as few as 3 additional clicks. Although we use Excel in this workshop, please note that a very similar method can be applied to data in Google Sheets.
 
+## Get started
+
+[Accelerate data aggregation with Excel](https://www.youtube.com/watch?v=407Y1sHvlRQ) on YouTube!
+
 [Download the practice data](Candidate-Feedback-Form-(Responses).xlsx) and jump in!
